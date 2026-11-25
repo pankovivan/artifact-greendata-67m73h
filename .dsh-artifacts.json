@@ -1,27 +1,7 @@
 {
   "version": 1,
-  "artifacts": {
-    "greendata-67m73h": {
-      "id": "greendata-67m73h",
-      "title": "Проектное финансирование — коробочный продукт на GreenData",
-      "kind": "html",
-      "createdAt": "2026-11-24T17:59:54.319Z",
-      "updatedAt": "2026-11-24T17:59:54.319Z",
-      "rev": 1,
-      "files": [
-        "assets/css/styles.css",
-        "assets/img/gantt.png",
-        "assets/img/prez-architecture.png",
-        "assets/img/prez-business.png",
-        "assets/img/prez-functionality.png",
-        "assets/js/main.js",
-        "index.html",
-        "presentations/architecture.pptx",
-        "presentations/business.pptx",
-        "presentations/functionality.pptx"
-      ],
-      "description": "Лендинг коробочного продукта «Проектное финансирование» с презентациями для скачивания"
-    }
-  },
-  "tombstones": []
+  "artifacts": {},
+  "tombstones": [
+    "greendata-67m73h"
+  ]
 }
